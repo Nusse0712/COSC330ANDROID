@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="app_name">HelloGoodbye2</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="exclaim_btn">Exclamation</string>
+
+    <string name="hello">Hello</string>
+    <string name="goodbye">Goodbye!</string>
+
+    <string name="exclaim_img">Exclamation Image</string>
+</resources>

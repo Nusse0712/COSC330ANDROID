@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lab2Ex1</string>
+    <string name="action_settings">Settings</string>
+
+    <!--- strings for the image text -->
+    <string name="hungry_img">Hungry</string>
+    <string name="full_img">full</string>
+
+    <!--- strings for the textView -->
+    <string name="hungryTxt">I am Hungry</string>
+    <string name="fullTxt">I\'m so full</string>
+    <!--- strings for the button text -->
+    <string name="hungry_btn">Eat Cookie</string>
+    <string name="full_btn">Done</string>
+
+
+</resources>
