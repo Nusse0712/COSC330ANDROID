@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lab2Ex2</string>
+    <string name="coffee_img">coffee</string>
+    <!--- strings for the first choice -->
+    <string name="coffeeChoiceText">Choose Toppings:</string>
+    <string name="creme_box">Cream</string>
+    <string name="choco_box">Chocolate</string>
+
+    <!-- strings for the quantity choice -->
+    <string name="Quantity">Quantity</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="numText">0</string>
+
+
+    <string name="orderBtn">ORDER</string>
+    <string name="orderSum">ORDER SUMMARY</string>
+    <string name="orderText">Your order summary....</string>
+</resources>
